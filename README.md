@@ -14,7 +14,7 @@ Because of this there is no license attached to this repository.
 
 Using the iPython server, the notebook creates a web page with markup and images, which can also include (and run) embedded python scripts.
 
-I have the questions, and placeholders for answers in one git branch (master) and a version with my answers in another git branch.
+I have the questions, and placeholders for answers in one git branch (master) and a version with my answers in another git branch. Only master is pushed to github, my answer branch is local to my computer.
 
 iPython Notebooks work almost like a wiki, in that each part of the page (each cell, in a vertical array) can be edited in an editable mode, or run. Running a cell puts it into a display mode. Each cell can be one of several types:
 
@@ -28,7 +28,8 @@ All the data to create the page is held in a JSON document, which the iPython se
 
 It's that JSON document, plus the image files, that you'll find here.
 
-iPython's JSON files make good use of newlines, and so git diffs and mergetools (I use kdiff) seem (so far, in my very limited experience) to work with the JSON pretty well.
+iPython's JSON files make good use of newlines, and so git diffs and mergetools (I use kdiff) seem 
+(so far, in my very limited experience) to work with the JSON pretty well.
 
 
 **Here's what you'll need if you want to use this.**
@@ -49,7 +50,7 @@ The update of ipython may throw an error if you already have an MS Windows short
 
 Then you can run the iPython server, in the cloned git directory. For me, that's:
 
-   $ ipython.exe notebook
+    $ ipython.exe notebook
 
 Note that this will serve up whatever directory it's in, so do this in a leaf directory that doesn't contain any sensitive files.
 
@@ -59,8 +60,8 @@ When you open it, all cells will be in display mode, double click any cell to pu
 
 You can also "File|Download As..." to download the notebook as pure (uneditable) HTML. Download it to that files directory (so it finds relative path to the images), and then open the downloaded file in your browser, to see the uneditable version.
 
-I recommend creating a second branch to fill in the answers. Please don't distribute your answers on github or elsewhere, that's
-a disservice to other students or potential future students.
+I recommend creating a second branch to fill in the answers. As homeworks are added, use git merge to merge master to your branch.
+Please don't distribute your answers on github or elsewhere, that's a disservice to other students or potential future students.
 
 
 Thanks,
