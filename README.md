@@ -1,5 +1,5 @@
-**This is an iPython Notebook for the homework assignments in the Coursera class Mining Massive Datasets, 
-offered in conjunction with Stanford University and taught by by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.**
+**This is an iPython Notebook for the homework assignments in the Coursera class *Mining Massive Datasets*
+offered in conjunction with Stanford University and taught by *Jure Leskovec, Anand Rajaraman, and Jeff Ullman.***
 
 The course can be found at: https://class.coursera.org/mmds-001
 
