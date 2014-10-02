@@ -5,7 +5,8 @@ The course can be found at: https://class.coursera.org/mmds-001
 
 It's principally of use to students of that course. The text and images are from the course and are copyrighted by their creators.
 I've merely re-packaged them in a format that makes completing the homework more convenient, and allows it to be later used as a
-study guide. Permission to distribute it was granted by Derek Farren, a Teaching Assistant for the first iteration of the course.
+study guide. Permission to distribute it was granted by Derek Farren, a Teaching Assistant for the first iteration of the course. 
+Because of this there is no license attached to this repository.
 
 The homework is a copy of the homework in the first iteration of the class, mmds-001.
 
