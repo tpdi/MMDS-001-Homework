@@ -50,7 +50,7 @@ The update of ipython may throw an error if you already have an MS Windows short
 
 Then you can run the iPython server, in the cloned git directory. For me, that's:
 
-    $ ipython.exe notebook
+    $ ipython notebook
 
 Note that this will serve up whatever directory it's in, so do this in a leaf directory that doesn't contain any sensitive files.
 
