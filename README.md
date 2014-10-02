@@ -3,12 +3,14 @@ offered in conjunction with Stanford University and taught by *Jure Leskovec, An
 
 The course can be found at: https://class.coursera.org/mmds-001
 
+The homework is a copy of the homework in the **first** iteration of the class, mmds-001.
+
 It's principally of use to students of that course. The text and images are from the course and are copyrighted by their creators.
 I've merely re-packaged them in a format that makes completing the homework more convenient, and allows it to be later used as a
 study guide. Permission to distribute it was granted by Derek Farren, a Teaching Assistant for the first iteration of the course. 
 Because of this there is no license attached to this repository.
 
-The homework is a copy of the homework in the first iteration of the class, mmds-001.
+
 
 Using the iPython server, the notebook creates a web page with markup and images, which can also include (and run) embedded python scripts.
 
@@ -46,6 +48,7 @@ If you're using Anaconda, the "conda" program will do this:
 The update of ipython may throw an error if you already have an MS Windows shortcut to ipython, but you can ignore that.
 
 Then you can run the iPython server, in the cloned git directory. For me, that's:
+
    $ ipython.exe notebook
 
 Note that this will serve up whatever directory it's in, so do this in a leaf directory that doesn't contain any sensitive files.
