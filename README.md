@@ -10,7 +10,7 @@ I've merely re-packaged them in a format that makes completing the homework more
 study guide. Permission to distribute it was granted by Derek Farren, a Teaching Assistant for the first iteration of the course. 
 Because of this there is no license attached to this repository.
 
-
+**I may make errors or omissions in transcribing the homework or its meta data (e.g., due dates), and the homework or meta data may change after my transcription. By using this transcription, you acknowledge this, and that it is your sole responsibility to determine its suitability for any use you make of it.**
 
 Using the iPython server, the notebook creates a web page with markup and images, which can also include (and run) embedded python scripts.
 
