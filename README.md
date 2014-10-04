@@ -12,6 +12,8 @@ Because of this there is no license attached to this repository.
 
 **I may make errors or omissions in transcribing the homework or its meta data (e.g., due dates), and the homework or meta data may change after my transcription. By using this transcription, you acknowledge this, and that it is your sole responsibility to determine its suitability for any use you make of it.**
 
+I have added four homework assignments, the single homework for week one and the three for week two.
+
 Using the iPython server, the notebook creates a web page with markup and images, which can also include (and run) embedded python scripts.
 
 I have the questions, and placeholders for answers in one git branch (master) and a version with my answers in another git branch. Only master is pushed to github, my answer branch is local to my computer.
